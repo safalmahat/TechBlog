@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ydna317/mytechBlog.git"
+    "url": "git+https://github.com/safalmahat/TechBlog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ydna317/mytechBlog/issues"
+    "url": "https://github.com/safalmahat/TechBlog/issues"
   },
-  "homepage": "https://github.com/Ydna317/mytechBlog#readme",
+  "homepage": "https://github.com/safalmahat/TechBlog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
